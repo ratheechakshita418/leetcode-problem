@@ -1,7 +1,3 @@
-#include <string>
-#include <vector>
-#include <unordered_map>
-#include <algorithm>
 class Solution {
 public:
     int longestSubstring(std::string s, int k) {
